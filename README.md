@@ -5,13 +5,7 @@ This repo is intended to supplement training courses and external projects relat
 Check out my profile on GitHub at [btk.me/btk](btk.me/btk)
 
 *********************************************************************************
-
-<a href="https://amzn.to/3VUZcOW"> <img align="center" alt="" src="https://m.media-amazon.com/images/I/51KLqAx5-QL._SY522_.jpg" width="200" height="300" /></a>
-<a href="https://amzn.to/2UeUjAI"> <img align="center" alt="" src="https://images-na.ssl-images-amazon.com/images/I/41SXDY4t6-L._SX404_BO1,204,203,200_.jpg" width="250" height="300" /></a>
-<a href="https://amzn.to/3HAw4pF"> <img align="center" alt="" src="https://m.media-amazon.com/images/I/41MY0+EHAbL._SX331_BO1,204,203,200_.jpg" width="200" height="300" /></a>
-
 <br>
-
 ### **Buy my books on Amazon:**
 - 👉 [HashiCorp Nomad Fundamentals - The Ultimate Beginner's Guide](https://amzn.to/3VUZcOW)
 - 👉 [Running HashiCorp Vault in Production](https://amzn.to/2UeUjAI)
